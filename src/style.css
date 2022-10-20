@@ -1,0 +1,44 @@
+h1{
+    color: black;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+h3{
+    text-align: center  ;
+}
+.button{
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+  
+}
+.btn-group{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 2px;
+    padding: 10px;
+}
+.list-section{
+    display: flex;
+   justify-content: flex-end;
+    list-style: none;
+    cursor: pointer;
+   
+}
+li{
+ 
+}
+.list-second{
+    font-size: 22px; 
+    margin-left: 20px;
+}
+.btn-section{
+    display: flex;
+    justify-content: center;
+}
